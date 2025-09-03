@@ -1,0 +1,13 @@
+<flight>
+    <flightNumber>AI202</flightNumber>
+    <!-- airline is missing (required) -->
+    <departure>
+        <airport>DEL</airport>
+        <time>2025-08-31T10:30:00</time>
+    </departure>
+    <arrival>
+        <airport>SFO</airport>
+        <time>2025-08-31T18:45:00</time>
+    </arrival>
+    <status>On Time</status>
+</flight>

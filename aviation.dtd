@@ -1,0 +1,8 @@
+<!ELEMENT flight (flightNumber, airline, departure, arrival, status)>
+<!ELEMENT flightNumber (#PCDATA)>
+<!ELEMENT airline (#PCDATA)>
+<!ELEMENT departure (airport, time)>
+<!ELEMENT arrival (airport, time)>
+<!ELEMENT airport (#PCDATA)>
+<!ELEMENT time (#PCDATA)>
+<!ELEMENT status (#PCDATA)>
